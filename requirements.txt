@@ -1,0 +1,14 @@
+numpy==1.21.2
+pandas==1.5.1
+matplotlib==3.6.1
+seaborn==0.11.2
+sklearn==0.0
+xgboost==1.4.2
+torch==1.12.1
+torchvision==0.13.1
+nilearn==0.9.2
+monai==1.0.0
+tensorly==0.7.0
+networkx==2.5
+tensorboard==2.10.1
+comet_ml==3.31.15
