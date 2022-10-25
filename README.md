@@ -1,6 +1,6 @@
 # Cobre_NeuroML
 
-Repo for final project of Numerical Linear Algebra course @ Skoltech '21
+Repo for final project of Neuroimaging and Machine Learning for Biomedicine course @ My University '22
 
 ## Requirements
 - numpy==1.21.2
@@ -43,5 +43,5 @@ The neural network, including three heads: MRI data, fMRI data and brain areas c
 | **Name** | **Telegram** |
 |----:|:----------:|
 | Petr Sokerin | @Petr_Sokerin |
-| Lidia Secondname | @telega |
+| Lidia Lidiia Rumiantseva | @Avenasativa |
 | Nikita Belousov | @nokiroki1 |
