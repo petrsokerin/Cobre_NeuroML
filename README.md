@@ -2,6 +2,8 @@
 
 Repo for final project of Neuroimaging and Machine Learning for Biomedicine course @ My University '22
 
+The results of the project are in [Comet](https://www.comet.com/petrsokerin/mri-cobre/view/new/panels) 
+
 ## Requirements
 - numpy==1.21.2
 - pandas==1.5.1
